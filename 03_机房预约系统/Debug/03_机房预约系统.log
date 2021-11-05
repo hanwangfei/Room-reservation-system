@@ -1,0 +1,11 @@
+﻿  manager.cpp
+  orderFile.cpp
+  student.cpp
+F:\Code\C++\c++Project\03_机房预约系统\student.cpp(89,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Code\C++\c++Project\03_机房预约系统\student.cpp(253,29): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+F:\Code\C++\c++Project\03_机房预约系统\teacher.cpp(80,29): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\Code\C++\c++Project\03_机房预约系统\Debug\03_机房预约系统.exe 或上一个增量链接没有生成它；正在执行完全链接
+  03_机房预约系统.vcxproj -> F:\Code\C++\c++Project\03_机房预约系统\Debug\03_机房预约系统.exe
